@@ -1,0 +1,44 @@
+.first
+{
+	background-color: pink;
+
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.big
+{
+
+font-size: 250%;
+color: deepskyblue;
+background-color:  grey;
+
+}
+
+.huge
+{
+
+font-size: 600%;
+color: aquamarine;
+background-color:  grey;
+text-decoration: underline;
+
+}
+
+
+.resize 
+{
+    width: 300px;
+    height: auto;
+}
+
+.spaces
+{
+	content: "\00a0";
+
+}
+
+
